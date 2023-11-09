@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About This Page
+A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis.  
+I hope to provide insights into the contribution of sociology to the ever growing body of climate change research, not only for fellow social scientists, but especially for climate researchers from other fields.
 
-### More Information
+Most of all, I am concerned with what my discipline can do to help us mitigate or adapt to a changing climate and its consequences.
 
-A place to include any other types of information that you'd like to include about yourself.
+### About Me
+I hold a Masters' degree in Sociology from the University of Göttingen, Germany. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+--
+<!-- [email@domain.com](mailto:email@domain.com) -->
