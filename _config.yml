@@ -3,7 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: Greenhouse Sociology
+name: 
+
+title: Greenhouse Sociology
 
 show_excerpts: true
 
