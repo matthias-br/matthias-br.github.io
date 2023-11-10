@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: Greenhouse Sociology
 
-title: Greenhouse Sociology
+show_excerpts: true
 
 # Short bio or description (displayed in the header)
 description: Researching society in the anthropocene
