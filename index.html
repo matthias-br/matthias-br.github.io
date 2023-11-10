@@ -9,9 +9,9 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       
-      
-      {{ post.date | date: "%B %e, %Y" }} - By {{ post.author }}
-      
+      <div class="date">
+        {{ post.date | date: "%B %e, %Y" }} - By {{ post.author }}
+      </div>
       
       <div class="entry">
         {{ post.excerpt }}
