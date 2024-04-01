@@ -5,7 +5,9 @@ author: Matthias
 ---
 
 
-A burning question in sociology in recent years, which has unfortunately not been asked much by researchers outside the discipline. The goal here is not to summarize concrete findings (that would require a separate post), but rather to give readers unfamiliar with sociology a better idea of what this discipline offers in very general terms. To start it off, it might be useful to talk a bit about what sociologists even do and what our research looks like.
+A burning question in sociology in recent years, which has unfortunately not been asked much by researchers outside the discipline. The goal here is not to summarize concrete findings (that would require a separate post), but rather to give readers unfamiliar with sociology a better idea of what this discipline offers in very general terms.
+
+To start it off, it might be useful to talk a bit about what sociologists even do and what our research looks like.
 
 *(Caution: This has become a longer read than intended, but you can of course jump straight to the [summary](#in-summary).)*
 
