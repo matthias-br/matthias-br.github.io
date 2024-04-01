@@ -11,7 +11,7 @@ I hope to provide insights into the contribution of sociology to the ever growin
 Most of all, I am concerned with what my discipline can do to help us mitigate or adapt to a changing climate and its consequences.
 
 ### About Me
-I hold a Master's degree in Sociology from the University of Göttingen, Germany. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science.
+I hold a Master's degree in Sociology. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science.
 
 ### Contact me
 --
