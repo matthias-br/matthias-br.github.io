@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: What Can Sociology Contribute to Climate Change Research?
 author: Matthias
 ---
 
