@@ -7,6 +7,6 @@ author: Matthias
 
 An interactive map showing the share of people in each country who think that climate change is caused by humans, using ISSP 2020 survey data.
 
-{% include _includes/climatemap.html %}
+{% include matthias-br.github.io/_includes/climatemap.html %}
 
 
