@@ -14,5 +14,7 @@ Most of all, I am concerned with what my discipline can do to help us mitigate o
 I hold a Master's degree in Sociology. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science.
 
 ### Contact me
---
-<!-- [email@domain.com](mailto:email@domain.com) -->
+<a href="mailto:ghsocblog@gmail@@com"
+   onclick="this.href=this.href.replace('@@','.')">
+   Send email
+</a>
