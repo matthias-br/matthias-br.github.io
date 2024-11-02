@@ -18,3 +18,5 @@ I hold a Master's degree in Sociology. Besides the sociology of climate change, 
    onclick="this.href=this.href.replace('@@','.')">
    Send email
 </a>
+
+[Follow me on mastodon](https://mastodon.social/@greenhousesociology)
