@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  draft post with GDP growth predictions dashboard
+title:  Simple Models vs. Experts: The Case of GDP Growth Prediction
 author: Matthias
 excerpt_separator: <!--end_excerpt-->
 ---
