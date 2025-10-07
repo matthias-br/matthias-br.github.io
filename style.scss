@@ -142,6 +142,18 @@ img {
     clear: both;
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+  text-align: left;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
