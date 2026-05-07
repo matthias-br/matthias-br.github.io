@@ -1,0 +1,17 @@
+/* css styles */
+
+/* justify text */
+p {
+  text-align: justify
+}
+
+
+/* navbar background color */
+.navbar {
+  background-color: #009575;
+}
+
+
+.navbar-brand {
+  color: #ffffff !important;
+}

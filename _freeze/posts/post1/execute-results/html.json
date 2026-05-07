@@ -1,0 +1,14 @@
+{
+  "hash": "37b4b7e0e2c650c54b5ce6210d5b8338",
+  "result": {
+    "markdown": "---\ntitle: \"Hello World!\"\ndescription: \"My first post\"\nauthor: \"Matthias\"\ndate: \"25/01/2026\"\ndraft: false\nfreeze: true\nimage: \"/images/post1.png\"\n---\n\n\nThis is a test post.\n\nIt has some R code:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
