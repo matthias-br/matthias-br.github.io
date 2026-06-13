@@ -9,13 +9,14 @@
 <link>https://matthias-br.github.io/blog.html</link>
 <atom:link href="https://matthias-br.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Researching Society in the Anthropocene</description>
-<generator>quarto-1.3.353</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Mon, 06 Oct 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Simple Models vs. Experts. The Case of GDP Growth Prediction</title>
   <dc:creator>Matthias </dc:creator>
   <link>https://matthias-br.github.io/posts/post4.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -26,7 +27,7 @@
 </iframe>
 <p>As we can see, none of the forecast methods are very accurate, although some do fare better than others. The Covid-19-induced downturn in 2020 was of course absolutely unpredictable for all models, but it exhibits a particular risk associated with using recent lags for prediction, such as with the 3-year moving average and autoregression: If an unpredicted downturn is immediately followed by growth, as is often the case, these models will still predict a downturn. Especially the autoregression also exhibits some dramatical positive overshoots, compensating for the preceding downturns (2008 financial crisis, Covid-19 pandemic) by reversing to the mean and subsequently overcorrecting.</p>
 <p>Ranked by RMSE, the experts indeed performed best, followed very closely by the historical mean, with the moving average further behind and the autoregression coming in last.</p>
-<table class="table">
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th>Metric</th>
@@ -73,6 +74,7 @@
 
 
 
+
 <p>An interactive map showing the share of people in each country who think that climate change is caused by humans, using ISSP 2020 survey data.</p>
 <p>This is mostly an attempt at embedding interactive graphs made with the plotly package for R. The result is not pretty (yet), but it works.</p>
 <p>The data is still interesting, though. While climate change deniers are a relatively small group in most countries, not everyone who acknowledges climate change also thinks it is mostly caused by human activity. In fact, as shown below, it is mostly Northern and Western European nations where an absolute majority shares this belief. This illustrates the need to understand attitudes towards climate change as a spectrum, ranging from environmentalists to deniers, with degrees of belief and scepticism in between.</p>
@@ -90,6 +92,7 @@
   <dc:creator>Matthias </dc:creator>
   <link>https://matthias-br.github.io/posts/post2.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -154,6 +157,7 @@
   <dc:creator>Matthias </dc:creator>
   <link>https://matthias-br.github.io/posts/post1.html</link>
   <description><![CDATA[ 
+
 
 
 
