@@ -12,6 +12,10 @@ website:
         text: About
       - href: index.qmd
         text: Blog
+    right:
+      - icon: rss
+        href: index.xml
+        
 
 format:
   html:
