@@ -1,33 +1,13 @@
 ---
-title: "Hi, I'm Matthias!"
-pagetitle: "About"
-about: 
-  template: trestles
-  links: 
-    - icon: github
-      url: "https://github.com/matthias-br"
-    - icon: mastodon
-      url: "https://mastodon.social/@greenhousesociology"
-    - icon: envelope-at
-      url: "mailto:ghsocblog@gmail.com"
-image: "images/bio.png"
-format:
-  html:
-    toc: false
-    grid:
-      margin-width: 100px
-      body-width: 1000px
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  categories: true
+  type: grid
+  sort-ui: false
+  image-height: "300"
+  feed: true
 ---
-::: {.column-page}
 
-## About this page
-
-A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis. I hope to provide insights into the contribution of sociology to the ever growing body of climate change research, not only for fellow social scientists, but especially for climate researchers from other fields.
-
-Most of all, I am concerned with what my discipline can do to help us mitigate or adapt to a changing climate and its consequences.
-
-## About me
-
-I hold a Master's degree in Sociology. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science.
-
-:::
+A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis.

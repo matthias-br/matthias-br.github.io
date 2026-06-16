@@ -1,13 +1,4 @@
 ---
-title: "Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  categories: true
-  type: grid
-  sort-ui: false
-  image-height: "300"
-  feed: true
+title: ""
 ---
 
-A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis.

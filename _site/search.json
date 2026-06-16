@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, I’m Matthias!",
+    "title": "Blog",
     "section": "",
-    "text": "A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis. I hope to provide insights into the contribution of sociology to the ever growing body of climate change research, not only for fellow social scientists, but especially for climate researchers from other fields.\nMost of all, I am concerned with what my discipline can do to help us mitigate or adapt to a changing climate and its consequences.\n\n\n\nI hold a Master’s degree in Sociology. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science."
+    "text": "A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimple Models vs. Experts. The Case of GDP Growth Prediction\n\n\nHow do simple predictions models fare against experts when applied to GDP growth rates?\n\n\n\nMatthias\n\n\nOct 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Change Attitudes - Causes of Climate Change\n\n\nAn interactive map showing the share of people in each country who think that climate change is caused by humans, using ISSP 2020 survey data.\n\n\n\nMatthias\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat Can Sociology Contribute to Climate Change Research?\n\n\nA burning question in sociology in recent years, which has unfortunately not been asked much by researchers outside the discipline.\n\n\n\nMatthias\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello World!\n\n\nContent coming very soon!\n\n\n\nMatthias\n\n\nNov 9, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#about-this-page",
@@ -37,9 +37,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Hi, I’m Matthias!",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis. I hope to provide insights into the contribution of sociology to the ever growing body of climate change research, not only for fellow social scientists, but especially for climate researchers from other fields.\nMost of all, I am concerned with what my discipline can do to help us mitigate or adapt to a changing climate and its consequences.\n\n\n\nI hold a Master’s degree in Sociology. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science."
   },
   {
     "objectID": "blog.html",
@@ -61,5 +61,19 @@
     "title": "Climate Change Attitudes - Causes of Climate Change",
     "section": "",
     "text": "An interactive map showing the share of people in each country who think that climate change is caused by humans, using ISSP 2020 survey data.\nThis is mostly an attempt at embedding interactive graphs made with the plotly package for R. The result is not pretty (yet), but it works.\nThe data is still interesting, though. While climate change deniers are a relatively small group in most countries, not everyone who acknowledges climate change also thinks it is mostly caused by human activity. In fact, as shown below, it is mostly Northern and Western European nations where an absolute majority shares this belief. This illustrates the need to understand attitudes towards climate change as a spectrum, ranging from environmentalists to deniers, with degrees of belief and scepticism in between.\nMouseover for percentages."
+  },
+  {
+    "objectID": "about.html#about-this-page",
+    "href": "about.html#about-this-page",
+    "title": "Hi, I’m Matthias!",
+    "section": "",
+    "text": "A place where I share thoughts and personal projects, mostly on sociological topics and inspired by the looming climate crisis. I hope to provide insights into the contribution of sociology to the ever growing body of climate change research, not only for fellow social scientists, but especially for climate researchers from other fields.\nMost of all, I am concerned with what my discipline can do to help us mitigate or adapt to a changing climate and its consequences."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Hi, I’m Matthias!",
+    "section": "",
+    "text": "I hold a Master’s degree in Sociology. Besides the sociology of climate change, I am interested in research on social inequality, comparative welfare state studies, and computational social science."
   }
 ]

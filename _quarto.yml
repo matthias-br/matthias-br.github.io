@@ -8,10 +8,10 @@ website:
   favicon: "/images/favicon.png"
   navbar:
     left:
-      - href: index.qmd
+      - href: about.qmd
         text: About
-      #- about.qmd
-      - blog.qmd
+      - href: index.qmd
+        text: Blog
 
 format:
   html:
