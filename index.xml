@@ -10,7 +10,62 @@
 <atom:link href="https://matthias-br.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Researching Society in the Anthropocene</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Mon, 06 Oct 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Climate Crisis needs social prediction</title>
+  <dc:creator>Matthias </dc:creator>
+  <link>https://matthias-br.github.io/posts/post5.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Jump to summary.</em></p>
+<p>Studying sociology, or most social sciences, you could get the impression that its scholars don’t like to concern themselves with the future. There is a somewhat niche, yet highly interesting literature that theorizes how our perceptions of the future are subject to social forces, how narratives of the future influence society in the present, but also how imagined futures might have consequences for the real future.</p>
+<p>Yet, despite acknowledging strong social links between present and future, none of this research actually makes any attempt at prediction. It is purely a “sociology of imagined futures” (Suckert 2022), that is, a field which is primarily concerned with the idea of future, not the real thing.</p>
+<p>Modern empirical sociology is indeed mostly concerned with the present and aims to explain, not to predict, social phenomena by trying to identify underlying causal mechanisms. The typical quantitative empirical study analyses data using statistical models, perhaps linear regression, then relates the results to the hypothesis and research question. The goal in such a study is to fit the statistical model as closely to the data as possible. However, these fine-tuned explanatory models are almost never put to the test on new data, i.e.&nbsp;in an attempt to predict outcomes outside the original dataset.</p>
+<section id="why-dont-sociologists-predict-more" class="level3">
+<h3 class="anchored" data-anchor-id="why-dont-sociologists-predict-more">Why don’t Sociologists predict more?</h3>
+<p>Tools for prediction are plentiful, especially with the rise of machine learning. So why don’t sociologists employ them more?</p>
+<p>Perhaps the most obvious reason is the inherent complexity of human behavior and social systems. A nation’s median age is reasonably easy to predict accurately for several years into the future, as it is closely tied to well understood biological processes and unlikely to vary unexpectedly. Accurately predicting the outcome of next year’s election is a significantly bigger feat, as it strongly depends on the individual decisions of millions of voters, influenced by a myriad of variables. Besides social complexity, high-impact singular events such as natural disasters or acts of terrorism are often impossible to foresee, yet they can have significant social consequences. From the few attempts at prediction that have been made in recent years, we know that sociologists do not fare well when they try to go beyond mere explanation. A widely noted study found that teams of social scientists could not forecast certain social trends better than a crowd of laypersons (The Forecasting Collaborative 2023). This illustrates that all prediction is inherently uncertain and that failed attempts are inevitable, no doubt a deterrent for anyone considering to try their hand at it. In addition, the lack of an established predictive tradition in Sociology (such as influential works, frameworks, chairs…) does not serve to alleviate the career risk associated with engaging in predictions. Especially for early-career researchers, negative results are a serious concern in a publish-or-perish world. And so, even for those who are interested in prediction, finding the best-fitting explanation for what has already been observed is simply the safe and sensible choice.</p>
+<p>Lastly, but importantly, ethical concerns cause wariness of prediction, especially regarding algorithmic fairness in Machine Learning and potential abuse of individual-level data. Modern sociology has long been at odds with everything resembling technocracy, the (misplaced) trust in data-driven rationality. And insofar as social prediction is a tool for governance, there is indeed a risk that it could serve to enable technocratic control of society. Increasing concerns over widespread AI use exacerbate these fears.</p>
+</section>
+<section id="is-prediction-the-same-as-forecasting" class="level3">
+<h3 class="anchored" data-anchor-id="is-prediction-the-same-as-forecasting">Is prediction the same as forecasting?</h3>
+<p>So far, I have implicitly assumed prediction to be synonymous with forecasting, that is, making a predictive statement about some future point in time. Indeed, this appears to be the most common understanding of the term. However, this is only one of several possible meanings and it is more sensible to understand the term prediction as an umbrella term including, among others, forecasts. I argue that resolving this confusion is the key to finding a balance between legitimate concerns on one hand and the advantages of prediction on the other hand.</p>
+<p>First, even when assuming that prediction equals forecasting, forecasts at <strong>different levels of time and specificity</strong> are possible. A forecast does not have to span 100 years and does not have to be an exact point estimate of some value. Shorter time spans and less specific estimates can reduce uncertainty. There is of course a trade-off between uncertainty and usefulness. While a very vague forecast is more certain, it is also less useful.</p>
+<p>Second, and staying with forecasts for now, conditional forecasts depending on the outcome of critical events are another way to deal with uncertainty. These <strong>scenario forecasts</strong> can be especially useful in areas such as policy design, where different actions must be taken depending on the direction of certain developments to achieve a desirable or avoid an undesirable outcome in the future.</p>
+<p>Third, if prediction does not equal forecasting, there is no particular requirement for a prediction to have any kind of temporal dimension at all. In fact, <strong>Sociologists already predict</strong> in this broader sense, but usually implicitly or even unknowingly. Every regression analysis predicts values of the dependent variable for a set of independent variables, or predictors. There is no temporal dimension involved, but we expect the findings to be generalizable to the population the sample was drawn from. This, too, is a kind of prediction as it points to new, unobserved data. The main difference to a forecast is that the data could have been observed in principle, as the process generating them has already taken place.</p>
+<p>This broader understanding of prediction is common in <strong>machine learning</strong> (ML), which is now also slowly gaining a foothold in the social sciences. Typically, an ML algorithm will be developed on training data to then be applied to previously unseen validation data, generating estimates of the target variable. Validation data is either obtained through dividing the available data into training and validation sets, or it could be totally new data. ML aims to minimize an algorithms prediction error (i.e.&nbsp;the difference between the predicted and actual outcome) for unseen data, while most current sociological research focuses on explanatory model fit within a given data set. The latter practice leads to overfitted models that perform poorly on new data, thus explaining why social scientists’ forecasts are so often inaccurate. Taking inspiration from ML in this regard is a promising way to address the issue.</p>
+<p>Finally, regarding ethical concerns, sociology has long been concerned with reflexivity in social research, the researcher’s role in and impact on society. Adopting a ML perspective and methods, for instance, does not equal breaking with this tradition – perhaps it could even strengthen cross-disciplinary discourse on the dangers of ML algorithms.</p>
+<p>The bottom line is this: There are ways to practice sociological prediction while addressing the legitimate concerns and practical issues surrounding it.</p>
+</section>
+<section id="why-should-sociologists-predict" class="level3">
+<h3 class="anchored" data-anchor-id="why-should-sociologists-predict">Why should Sociologists predict?</h3>
+<p>The necessity for sociological prediction in a changing climate, as is the focus here, stems of course from its potential to help us deal with the climate crisis, but also from the positive effects it could have on the discipline. The latter calls for prediction in the broader sense, while the former would also require sociologists to engage in actual forecasts.</p>
+<p>Climate scientist can tell us what the (likely) future looks like, but their forecasts are mostly in the language of temperature increase, sea level rise, chance of extreme weather events, biodiversity loss etc. It is up to sociology to add to this perspective predictions of what we might call <strong>social futures</strong>, i.e.&nbsp;likely courses of social change that are associated with a changing climate. Scenario forecasting, as mentioned above, is perhaps the most promising approach of this kind. Adapting to climate change requires us to lay out plausible scenarios to discuss and prepare for. Such scenarios will be conceived by decision makers, whether sociologists are involved or not. It is in everyone’s best interest that they are. At the same time, social futures could underpin mitigation efforts by translating natural processes into more palpable social consequences (although a lack of information is generally not the main obstacle to climate action). Being explicit about social futures in a changing climate also allows for more open debates on how to deal with the climate crisis, a necessary condition for just transformations.</p>
+<p>In a broader sense, sociological prediction can serve to make social research more rigorous. The widely bemoaned replication crisis is also a crisis of predictive validity. Balancing explanatory power and predictive accuracy could help build theories that generalize beyond a specific sample. This would not only improve empirical robustness of studies but possibly also make sociological findings more interesting to other disciplines, policymakers, and the general public.</p>
+<p>Whichever purpose they serve, sociological predictions have to be explicit and falsifiable, theoretically and empirically grounded, and they must address potential ethical concerns. Predictive performance should not be the main goal, any prediction still has to offer relevant insights and aid in social theory building, while being aware of its potential societal impact.</p>
+</section>
+<section id="in-summary" class="level3">
+<h3 class="anchored" data-anchor-id="in-summary">In summary…</h3>
+<p>Doubts regarding feasibility, the nature of modern academia, and a fear of unintended negative consequences have prevented prediction from becoming a respected and established practice in sociology.</p>
+<p>But avoiding prediction altogether is not an option. Sensible predictions can be made with various goals and in numerous ways, not all of them involve forecasting, and some are (implicitly) already commonplace in sociology.</p>
+<p>Prediction enables us to investigate plausible social futures in a changing climate, supporting mitigation and adaptation efforts. Theoretically and empirically informed predictions would also improve the replicability and generalizability of social research.</p>
+</section>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<p>Suckert, Lisa (2022): Back to the Future. Sociological Perspectives on Expectations, Aspirations and Imagined Futures, European Journal of Sociology 63(3), 393-428, doi:10.1017/S0003975622000339</p>
+<p>The Forecasting Collaborative (2023): Insights into the accuracy of social scientists’ forecasts of societal change, Nat Hum Behav 7, 484-501, https://doi.org/10.1038/s41562-022-01517-1</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://matthias-br.github.io/posts/post5.html</guid>
+  <pubDate>Sat, 15 Aug 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://matthias-br.github.io/images/post5.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
 <item>
   <title>Simple Models vs. Experts. The Case of GDP Growth Prediction</title>
   <dc:creator>Matthias </dc:creator>

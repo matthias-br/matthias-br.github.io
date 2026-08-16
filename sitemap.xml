@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://matthias-br.github.io/posts/post4.html</loc>
-    <lastmod>2026-06-16T17:24:18.478Z</lastmod>
+    <loc>https://matthias-br.github.io/posts/post5.html</loc>
+    <lastmod>2026-08-16T16:57:55.969Z</lastmod>
   </url>
   <url>
-    <loc>https://matthias-br.github.io/posts/post2.html</loc>
-    <lastmod>2026-06-16T17:24:18.476Z</lastmod>
-  </url>
-  <url>
-    <loc>https://matthias-br.github.io/index.html</loc>
-    <lastmod>2026-06-16T17:53:47.383Z</lastmod>
-  </url>
-  <url>
-    <loc>https://matthias-br.github.io/about.html</loc>
-    <lastmod>2026-06-16T17:46:47.168Z</lastmod>
+    <loc>https://matthias-br.github.io/posts/post3.html</loc>
+    <lastmod>2026-06-16T17:24:18.477Z</lastmod>
   </url>
   <url>
     <loc>https://matthias-br.github.io/posts/post1.html</loc>
     <lastmod>2026-06-16T17:24:18.476Z</lastmod>
   </url>
   <url>
-    <loc>https://matthias-br.github.io/posts/post3.html</loc>
-    <lastmod>2026-06-16T17:24:18.477Z</lastmod>
+    <loc>https://matthias-br.github.io/about.html</loc>
+    <lastmod>2026-06-16T17:46:47.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthias-br.github.io/index.html</loc>
+    <lastmod>2026-06-16T17:53:47.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthias-br.github.io/posts/post2.html</loc>
+    <lastmod>2026-06-16T17:24:18.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matthias-br.github.io/posts/post4.html</loc>
+    <lastmod>2026-06-16T17:24:18.478Z</lastmod>
   </url>
 </urlset>
