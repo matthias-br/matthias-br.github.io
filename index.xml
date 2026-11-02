@@ -10,7 +10,34 @@
 <atom:link href="https://matthias-br.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Researching Society in the Anthropocene</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Sat, 15 Aug 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Societal Impact of AI: Human Oversight and Agency</title>
+  <dc:creator>Matthias </dc:creator>
+  <link>https://matthias-br.github.io/posts/post6.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Social research is already investigating the impact of AI in many areas of social life. Countless empirical studies have been published on matters such as misinformation, job loss, algorithmic bias, governance, etc. Yet our understanding of AI’s role in human societies on a more fundamental level is still developing. A central question is this: What happens to human agency in social processes that are increasingly AI-mediated?</p>
+<p>It is no surprise that most debates on AI and the dangers associated with it are dominated by a rather technological perspective mainly concerned with technical and procedural guardrails. Often it is assumed that, in order to prevent unintended consequences, human oversight is our best bet. While true to some degree, the possibility of algorithms influencing their human overseers is rarely discussed.</p>
+<p>An interesting theoretical paper by Ibitoye et al.&nbsp;(2026) cautions that even if humans remain formally involved in AI-supported decision-making processes, AI will gradually alter the rules of the game by subtly changing the very environment in which decisions are made.</p>
+<p>As AI becomes more embedded in organizational decisions, the role of human actors shifts from that of independently deliberating judges to mere validators of AI-generated solutions. AI also influences the process of decision-making by highlighting and prioritizing information, further narrowing the corridor for human judgement. Furthermore, as algorithmic decisions become more commonplace, disagreement with or even total rejection of these decisions will require additional justification from human actors. Workplace policies prescribing the use of AI are an example of this.</p>
+<p>A particularly problematic aspect of this development is that while authority increasingly shifts towards AI, responsibility still remains entirely with the human. Even though the term “artificial <em>intelligence</em>” suggests the opposite, algorithms are not accountable for their “actions”. Yet, their power to influence social processes goes far beyond what one might expect from a statistical model.</p>
+<p>Conceptualizing these human-AI relations poses a challenge to social science. Will existing social theories and their understanding of agency suffice or are we required to fundamentally rethink the role of non-human actors in society?</p>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<p>Ibitoye, A. O., Ajenifuja, O. F., Abdul Kareem, R. S., Adeyemo, D. D., &amp; Famutimi, R. F. (2026). Decision substitution and the reorganisation of judgement in AI-mediated society. AI &amp; SOCIETY, pp.&nbsp;1-24, https://doi.org/10.1007/s00146-026-03349-3</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://matthias-br.github.io/posts/post6.html</guid>
+  <pubDate>Sun, 01 Nov 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://matthias-br.github.io/images/post6.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
 <item>
   <title>The Climate Crisis needs social prediction</title>
   <dc:creator>Matthias </dc:creator>
