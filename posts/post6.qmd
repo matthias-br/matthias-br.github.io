@@ -1,0 +1,24 @@
+---
+title: "The Societal Impact of AI: Human Oversight and Agency"
+description: "Calls for human oversight in AI-supported decision-making are ubiquitous, but often fail to consider that AI is already restructuring the very conditions on which human judgement rests in these processes. This has important implications also for social science."
+author: "Matthias"
+date: "11/02/2026"
+draft: false
+image: "/images/post6.png"
+---
+
+Social research is already investigating the impact of AI in many areas of social life. Countless empirical studies have been published on matters such as misinformation, job loss, algorithmic bias, governance, etc. Yet our understanding of AI’s role in human societies on a more fundamental level is still developing. A central question is this: What happens to human agency in social processes that are increasingly AI-mediated?
+
+It is no surprise that most debates on AI and the dangers associated with it are dominated by a rather technological perspective mainly concerned with technical and procedural guardrails. Often it is assumed that, in order to prevent unintended consequences, human oversight is our best bet. While true to some degree, the possibility of algorithms influencing their human overseers is rarely discussed.
+
+An interesting theoretical paper by Ibitoye et al. (2026) cautions that even if humans remain formally involved in AI-supported decision-making processes, AI will gradually alter the rules of the game by subtly changing the very environment in which decisions are made.
+
+As AI becomes more embedded in organizational decisions, the role of human actors shifts from that of independently deliberating judges to mere validators of AI-generated solutions. AI also influences the process of decision-making by highlighting and prioritizing information, further narrowing the corridor for human judgement. Furthermore, as algorithmic decisions become more commonplace, disagreement with or even total rejection of these decisions will require additional justification from human actors. Workplace policies prescribing the use of AI are an example of this.
+
+A particularly problematic aspect of this development is that while authority increasingly shifts towards AI, responsibility still remains entirely with the human. Even though the term “artificial *intelligence*” suggests the opposite, algorithms are not accountable for their “actions”. Yet, their power to influence social processes goes far beyond what one might expect from a statistical model.
+
+Conceptualizing these human-AI relations poses a challenge to social science. Will existing social theories and their understanding of agency suffice or are we required to fundamentally rethink the role of non-human actors in society?
+
+### References
+
+Ibitoye, A. O., Ajenifuja, O. F., Abdul Kareem, R. S., Adeyemo, D. D., & Famutimi, R. F. (2026). Decision substitution and the reorganisation of judgement in AI-mediated society. AI & SOCIETY, pp. 1-24, https://doi.org/10.1007/s00146-026-03349-3
